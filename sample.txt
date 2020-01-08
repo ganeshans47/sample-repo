@@ -1,3 +1,3 @@
 GIT is a DevOPS Tool which requires some efforts to learn and explore :-)
 First edition of DevOps Dated : 08Jan2019
-
+******** Sample verification for Merging **********
